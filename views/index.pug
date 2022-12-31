@@ -1,0 +1,21 @@
+doctype html
+html 
+    head 
+        meta(charset='utf-8')
+        meta(http-equiv="X-UA-Compatible", content="IE=edge")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0") 
+        link(rel='stylesheet' type='text/css' href='/css/main.css')
+        title #{title}
+    body 
+        main.container 
+            div.left
+                img.left_image(src="/assets/email_messenger.svg", alt="An email messenger svg")
+            div.right 
+                h2.title #{title}
+                form.form_container
+                    input.subject(type="text" placeholder='Enter subject') 
+                    input.recipients(type="email" placeholder='Enter recipients separated by comma')
+                    textarea.message(placeholder='Enter your message') 
+                    button.btn(type="submit") 
+                        span Send
+        script(src="/js/bundle.js" type='text/javascript') 
