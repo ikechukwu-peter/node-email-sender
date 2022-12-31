@@ -56,7 +56,7 @@ $ yarn format
 
 ### Usage
 
-Navigate to the project directory `cd node-email-sender`, open two terminals and run `yarn dev` in one and then `yarn watch:js` in the other. The `yarn watch:js` compiled your client TypeScript to JavaScript and watches for file changes. Or, visit the live demo at: https://node-email-sender-webq.onrender.com/
+Navigate to the project directory `cd node-email-sender`, open two terminals and run `yarn dev` in one and then `yarn watch` in the other. The `yarn watch` compiled your client TypeScript to JavaScript and watches for file changes. Or, visit the live demo at: https://node-email-sender-webq.onrender.com/
 
 ## Author
 
