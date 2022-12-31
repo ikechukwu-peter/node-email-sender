@@ -38,10 +38,19 @@ $ yarn install
 $ yarn dev
 
 # development static files
-$ yarn watch:js
+$ yarn watch
 
 # build
 $ yarn build
+
+# start
+$ yarn start
+
+# lint
+$ yarn lint
+
+# format
+$ yarn format
 
 ```
 
