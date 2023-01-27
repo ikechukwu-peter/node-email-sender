@@ -11,7 +11,7 @@
 
 ## Live Demo ☁️
 
-[Live Demo Link](https://node-email-sender-webq.onrender.com/
+[Live Demo Link](https://node-email-sender-webq.onrender.com/)
 
 ## Getting Started ☀️
 
